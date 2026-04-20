@@ -1,0 +1,5 @@
+mss
+Pillow
+pytesseract
+deep-translator
+pyperclip
